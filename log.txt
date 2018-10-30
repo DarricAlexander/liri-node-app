@@ -1,0 +1,34 @@
+
+====================== SPOTIFY THIS SONG ======================
+Artist: Migos
+Song title: Fight Night
+Album name: No Label II
+URL Preview: https://p.scdn.co/mp3-preview/2a7b91b3e760629de9e564cf701ec658c633b453?cid=db116e5485464e368868d80232363e77
+======================
+
+====================== MOVIE THIS ======================
+Title: Friday
+Release Year: 1995
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 54/100
+Country movie produced in: USA
+Language: English
+Plot: Two homies, Smokey and Craig, smoke a dope dealer's weed and try to figure a way to get the $200 they owe to the dealer by 10 p.m. that same night.
+Actors: Ice Cube, Chris Tucker, Nia Long, Tommy 'Tiny' Lister
+======================
+========== DEFAULT - NO ENTRY ==========
+Command is not valid.
+To use correctly, type in the following:
+1. To search OMDB for a movie title type: node liri.js movie-this <movie title>
+2. To search Spotify for a song title type: node liri.js spotify-this-song <song title>
+3. To see the last 20 of my Twitter tweets type: node liri.js my-tweets
+4. For a random search: node liri.js do-what-it-says
+==========
+========== DEFAULT - NO ENTRY ==========
+Command is not valid.
+To use correctly, type in the following:
+1. To search OMDB for a movie title type: node liri.js movie-this <movie title>
+2. To search Spotify for a song title type: node liri.js spotify-this-song <song title>
+3. To see the last 20 of my Twitter tweets type: node liri.js my-tweets
+4. For a random search: node liri.js do-what-it-says
+==========
